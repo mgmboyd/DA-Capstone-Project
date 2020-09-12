@@ -1,3 +1,8 @@
+# LINKS
+
+PYTHON Notebook - https://colab.research.google.com/drive/1vuY1xL7i6lcFCHI0VOzsPBsz2RmCvQho#scrollTo=U-te62ktdiZ4&uniqifier=1
+TABLEAU (MGB) - https://public.tableau.com/profile/mary.grace.boyd#!/vizhome/BBFinalCapstoneProject-Tableau/Dashboard1?publish=yes
+
 # DA-Capstone-Project
 
 The capstone project involves an analysis of the students choosing relating to their field of interest or current industry, creating a visualization (static or interactive) using
